@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# critical_bin - Managed by Puppet. Do not modify locally.
+echo "critical_bin executed at $(date -Is)"
